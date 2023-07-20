@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmangel3404)](https://solved.ac/jmangel3404/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay3404&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jay3404&show_icons=true">
