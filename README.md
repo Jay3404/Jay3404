@@ -1,35 +1,66 @@
+# Hi, I'm Jaemin Yang 👋
 
-  ### Hi there 👋
+I'm an integrated MS-PhD student in Information Systems at Hanyang University, interested in Financial AI, Quantum Machine Learning, anomaly detection, and trustworthy data-driven systems.
 
+My work focuses on building machine learning systems for credit risk, fake review detection, financial networks, and reliable AI-driven decision support.
 
+---
 
+## Research Interests
 
-<!--
-**Jay3404/Jay3404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Financial AI and credit risk modeling
+- Quantum Machine Learning, especially quantum kernels and QSVC
+- Cost-sensitive and risk-aware machine learning
+- Fraud, fake review, and anomaly detection
+- Graph machine learning for financial networks
+- Explainable and trustworthy AI systems
+- ML infrastructure and experiment pipelines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
 
-<!--
-<div align=center> 
+### Risk-Aware Quantum-Classical Credit Risk Modeling
+Developing a quantum-classical framework for cost-sensitive credit risk assessment using QSVC, quantum kernels, and risk-aware feature transformations.
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJay3404&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Keywords: QSVC, quantum kernel, credit risk, cost-sensitive learning, business cost, imbalanced classification
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay3404&show_icons=true">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmangel3404)](https://solved.ac/jmangel3404/)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay3404&layout=compact"><br><br>
--->
-  
-  
+### Steam Fake Review Detection
+Building a large-scale fake review detection pipeline using Steam review data, reviewer behavior, playtime signals, temporal burst patterns, and LLM-assisted labeling.
 
-</div>
+Keywords: fake review detection, behavioral signals, burst detection, LLM labeling, Steam reviews
+
+### Financial Graph Machine Learning
+Exploring heterogeneous graph-based approaches for financial recommendation, investor-product relationships, suitability constraints, and risk-aware decision support.
+
+Keywords: graph ML, financial networks, recommendation systems, risk modeling
+
+---
+
+## Tech Stack
+
+### Quantum & Scientific Computing
+Qiskit, QSVC, VQC, quantum kernels, PCA-based feature encoding
+
+### Backend & Infrastructure
+Spring Boot, Next.js, PostgreSQL, Docker, K8s, ArgoCD, Jenkins, Nginx, Linux
+
+### Development
+GitHub, CI/CD, REST APIs, experiment tracking, self-hosted research environments
+
+---
+
+## What I'm Currently Learning
+
+- Advanced machine learning for financial risk and anomaly detection
+- Quantum machine learning and quantum kernel methods
+- Graph neural networks for financial networks
+- Robust and explainable AI systems
+- Research-grade ML engineering and reproducible experiments
+
+---
+
+## Contact
+
+- GitHub: @Jay3404
+- Research interests: Financial AI, Quantum ML, Anomaly Detection, Graph ML
