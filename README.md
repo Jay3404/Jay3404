@@ -38,10 +38,11 @@ Python
 scikit-learn
 Pandas
 
-### 🖥️ Backend & Infrastructure
+### 🖥️ Development & Infrastructure
 
 Spring Boot
 Next.js
+React
 PostgreSQL
 Docker
 Jenkins
@@ -67,20 +68,6 @@ Linux
 
 Financial AI · Credit Risk · Quantum Machine Learning · QSVC · Quantum Kernel  
 Anomaly Detection · Fake Review Detection · Graph ML · Explainable AI · ML Infrastructure
-
----
-
-## 📊 GitHub Stats
-
-Jaemin's GitHub stats
-
-Top Langs
-
----
-
-## 🌱 Long-Term Direction
-
-My long-term goal is to develop robust, explainable, and deployable AI systems for financial decision-making, including credit risk assessment, fraud detection, market risk analysis, and AI governance.
 
 ---
 
