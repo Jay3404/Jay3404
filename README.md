@@ -48,7 +48,6 @@ Docker
 Jenkins
 ArgoCD
 K8s
-Nginx
 Linux
 
 ---
